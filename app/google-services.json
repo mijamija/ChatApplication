@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1047216752215",
+    "firebase_url": "https://chat-app-b9750.firebaseio.com",
+    "project_id": "chat-app-b9750",
+    "storage_bucket": "chat-app-b9750.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047216752215:android:b97bca922aeeb4b8",
+        "android_client_info": {
+          "package_name": "com.example.interns.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047216752215-fit2v7arf105370fcnr1kmdrr7alcpt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAbCxRxuGD9fCnF8q2VZrx6GMN1W_yp2g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
